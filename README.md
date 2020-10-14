@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate on front end and back end web development 
 - 🤔 I’m looking for part-time job on web development 
 
-[![Henok's github stats](https://github-readme-stats.vercel.app/api?username=henatan99)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henatan99)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Henok's github stats](https://github-readme-stats.vercel.app/api?username=henatan99&show_icons=true)
