@@ -13,4 +13,5 @@
 
 ![Henok's github stats](https://github-readme-stats.vercel.app/api?username=henatan99&show_icons=true)
 
-[![Henok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henatan99)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--- [![Henok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henatan99)](https://github.com/anuraghazra/github-readme-stats) --->
