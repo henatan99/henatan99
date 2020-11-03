@@ -7,11 +7,12 @@
 - 👯 I’m looking to collaborate on front end and back end web development 
 - 🤔 I’m looking for part-time job on web development 
 
+Interested to see my credentials? Here is the link 
+https://www.credential.net/profile/henokmekonnenmossissa658994/wallet#gs.kednme 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henatan99)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Henok's github stats](https://github-readme-stats.vercel.app/api?username=henatan99&show_icons=true)
 
-Interested to see my credentials? Here is the link 
-https://www.credential.net/profile/henokmekonnenmossissa658994/wallet#gs.kednme 
 
 <!--- [![Henok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henatan99)](https://github.com/anuraghazra/github-readme-stats) --->
