@@ -10,7 +10,7 @@
 Interested to see my credentials? Here is the link 
 https://www.credential.net/profile/henokmekonnenmossissa658994/wallet#gs.kednme 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henatan99" alt="Top Langs"/)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henatan99)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Henok's github stats](https://github-readme-stats.vercel.app/api?username=henatan99&show_icons=true)
 
