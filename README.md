@@ -1,13 +1,14 @@
 <h1> Henok Mekonnen </h1>
 <h2>Freelance FullStack Developer</h2> 
 
-<b>I am a web developer and content creator. I am passionate about coding and collaborating. The tools I often employ are JavaScript, Ruby, ReactJS and Python.</b>
+<b>I am a web developer and content creator. I am passionate about coding and collaborating. The tools I often employ are JavaScript, Ruby, ReactJS, and Rails.</b>
 - 🔭 I’m currently working on web development 
 - 🔭 I’m currently a student at Microverse, a 'Mastery learning' online program 
-- 👯 I’m looking to collaborate on front end and back end web development 
-- 🤔 I’m looking for part-time job on web development 
+- 🔭 am working as a part-time Technical Support Engineer at Microverse. 
+- 👯 I’m looking to collaborate on the front end and back end web development 
+- 🤔 I’m looking for a part-time job in web development 
 
-Interested to see my credentials? Here is the link 
+Interested to see my credentials? Here is the link: 
 https://www.credential.net/profile/henokmekonnenmossissa658994/wallet#gs.kednme 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henatan99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
