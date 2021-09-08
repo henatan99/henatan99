@@ -6,7 +6,7 @@
 - 🔭 I’m currently a student at Microverse, a 'Mastery learning' online program 
 - 🔭 am working as a part-time Technical Support Engineer at Microverse. 
 - 👯 I’m looking to collaborate on the front end and back end web development 
-- 🤔 I’m looking for a part-time job in web development 
+- 🤔 I’m looking for a full-time job with remote option very welcomed in web development 
 
 Here is my portfolio: https://henatan99.github.io/personal-portfolio/
 
