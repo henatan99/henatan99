@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on the front end and back end web development 
 - 🤔 I’m looking for a part-time job in web development 
 
+Here is my portfolio: https://henatan99.github.io/personal-portfolio/
+
 Interested to see my credentials? Here is the link: 
 https://www.credential.net/profile/henokmekonnenmossissa658994/wallet#gs.kednme 
 
