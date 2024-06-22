@@ -2,9 +2,11 @@
 <h2>Freelance FullStack Developer</h2> 
 
 <b>I am a web developer and content creator. I am passionate about coding and collaborating. The tools I often employ are JavaScript, Ruby, ReactJS, and Rails.</b>
-- 🔭 I’m currently working on web development 
-- 🔭 I’m a certified full-stack developer from Microverse, a 'Mastery learning' online program 
-- 🔭 I have worked as a part-time Technical Support Engineer at Microverse and a front-end developer at Aevue Llc.
+- 🔭 I’m currently building a ride-sharing application and working as a freelance full-stack developer 
+- 🔭 I’m a certified full-stack developer from Microverse, a 'Mastery learning' online program
+- 🔭 I worked as a React front-end developer at Aevue Llc
+- 🔭 I have worked as a React front-end developer at Telesoft  
+- 🔭 I worked as a part-time Technical Support Engineer at Microverse and a front-end developer at Aevue Llc.
 - 👯 I’m looking to collaborate on the front-end and back-end web development 
 - 🤔 I’m looking for a full-time job (remote option very welcomed) in web development 
 - 🤔 Available for hire
